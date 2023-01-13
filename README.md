@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Guy Davidi a Embedded Software Engineer @ Marvell.
+I'm Guy Davidi an Embedded Software Engineer @ Marvell.
 
 🔭 I’m currently working on P4 project that will enable configure ⚡DPDK pipeline⚡ easily!
 
