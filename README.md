@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Guy Davidi an Embedded Linux Software Engineer @ Marvell.
 
-🔭 I’m currently working on P4 project that will enable configure ⚡DPDK pipeline⚡ easily!
+I’m currently working on P4 project that will enable configure DPDK pipeline easily!
 
    📫 •[Linkedin](https://www.linkedin.com/in/guy-davidi/) •
 
