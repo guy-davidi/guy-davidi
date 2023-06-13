@@ -7,11 +7,9 @@ I’m currently working on P4 project that will enable configure DPDK pipeline e
 
 
 ---
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api?username=YehonatanFr&theme=algolia&show_icons=true) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api?username=guy-davidi&theme=algolia&show_icons=true) -->
  
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YehonatanFr&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YehonatanFr&hide=shell&theme=dark&background=000000&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=guy-davidi&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ---
 
@@ -25,7 +23,7 @@ I’m currently working on P4 project that will enable configure DPDK pipeline e
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=YehonatanFr&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=guy-davidi&style=flat-square&color=blue" alt=""/>
 
 
 
