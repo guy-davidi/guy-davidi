@@ -23,10 +23,6 @@ I’m currently working on P4 project that will enable configure DPDK pipeline e
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=guy-davidi&style=flat-square&color=blue" alt=""/>
-
-
-
 <!--
 **guy-davidi/guy-davidi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
