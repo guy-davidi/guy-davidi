@@ -4,7 +4,7 @@
 ---
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api?username=guy-davidi&theme=algolia&show_icons=true) -->
 
- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=guy-davidi&theme=dark&background=000000)](https://git.io/streak-stats)
+                                     [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=guy-davidi&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ---
 <!--
