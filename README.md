@@ -7,7 +7,7 @@
 
 ---
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api?username=guy-davidi&theme=algolia&show_icons=true) -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=guy-davidi1&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats)
 ---
 
    📫 •[Linkedin](https://www.linkedin.com/in/guy-davidi/) •
