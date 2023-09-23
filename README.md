@@ -1,4 +1,4 @@
- ##                                                  👋
+#                                                               👋
 ---
                                      I'm Guy Davidi an Embedded Linux Software Engineer @ Marvell.
 ---
