@@ -12,6 +12,12 @@
 ![Linux](https://img.shields.io/badge/-Linux-lightgrey)
 ![Kernel](https://img.shields.io/badge/-Kernel-orange)
 ![Python](https://img.shields.io/badge/-Python-yellow)
+![FreeRTOS](https://img.shields.io/badge/-FreeRTOS-blue)
+![Firmware](https://img.shields.io/badge/-Firmware-red)
+![SerDes](https://img.shields.io/badge/-SerDes-purple)
+![MAC](https://img.shields.io/badge/-MAC-pink)
+![PCS](https://img.shields.io/badge/-PCS-brown)
+![Networking](https://img.shields.io/badge/-Networking-lightblue)
 
 ## GitHub Stats
 
