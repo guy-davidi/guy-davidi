@@ -22,7 +22,3 @@
 
 - 📧 Email: guy.davidix@gmail.com
 - 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/guy-davidi/)
-
-## GitHub Trophies
-
-![Visitor Counter](https://visitor-badge.glitch.me/badge?page_id=guy-davidi)
