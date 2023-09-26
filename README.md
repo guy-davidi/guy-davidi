@@ -2,10 +2,9 @@
 
 ## About Me
 
-- 🌍 Location: Israel
+- 🌍 Location: Tel Aviv District, Israel
 - 💼  Embedded Linux Software Engineer @ Marvell
 
-## Skills
 ## Skills
 
 ![C](https://img.shields.io/badge/-C-blue)
