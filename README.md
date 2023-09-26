@@ -25,6 +25,4 @@
 
 ## GitHub Trophies
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=guy-davidi&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
-
-![Visitor Counter](https://visitor-badge.glitch.me/badge?page_id=guy-davidi.guy-davidi)
+![Visitor Counter](https://visitor-badge.glitch.me/badge?page_id=guy-davidi)
