@@ -22,7 +22,7 @@
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guy-davidi&show_icons=true&theme=dark" alt="GitHub Contributions" width="55%">
+  <img src="https://github-readme-stats.vercel.app/api?username=guy-davidi&show_icons=true&theme=dark" alt="GitHub Contributions" width="52%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guy-davidi&layout=compact&theme=dark" alt="Top Languages" width="48%">
 </div>
 
