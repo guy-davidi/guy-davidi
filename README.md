@@ -6,12 +6,13 @@
 - 💼  Embedded Linux Software Engineer @ Marvell
 
 ## Skills
+## Skills
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
-![React](https://img.shields.io/badge/-React-blue)
-![Node.js](https://img.shields.io/badge/-Node.js-green)
-![HTML5](https://img.shields.io/badge/-HTML5-orange)
-![CSS3](https://img.shields.io/badge/-CSS3-blue)
+![C](https://img.shields.io/badge/-C-blue)
+![DPDK](https://img.shields.io/badge/-DPDK-green)
+![Linux](https://img.shields.io/badge/-Linux-lightgrey)
+![Kernel](https://img.shields.io/badge/-Kernel-orange)
+![Python](https://img.shields.io/badge/-Python-yellow)
 
 ## GitHub Stats
 
