@@ -17,10 +17,6 @@
 
 ![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=guy-davidi&show_icons=true&theme=dark)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guy-davidi&layout=compact&theme=dark)
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=guy-davidi&theme=github)](https://github.com/guy-davidi)
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=guy-davidi&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=guy-davidi&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guy-davidi&layout=compact&theme=dark)
 
 ## Contact Me
 
