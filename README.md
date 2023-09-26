@@ -20,10 +20,12 @@
 ![Networking](https://img.shields.io/badge/-Networking-lightblue)
 
 ## GitHub Stats
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=guy-davidi&show_icons=true&theme=dark" alt="GitHub Contributions" width="48%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guy-davidi&layout=compact&theme=dark" alt="Top Languages" width="48%">
 </div>
+
 ## Contact Me
 
 - 📧 Email: guy.davidix@gmail.com
