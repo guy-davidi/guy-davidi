@@ -3,9 +3,6 @@
   <img src="https://hits.sh/github.com/guy-davidi.svg?style=for-the-badge&label=Profile+Views&extraCount=0&color=779AEB&labelColor=4C4C4C" alt="Profile Views" />
 </p>
 
----
-
-## 🤝 Connect with Me
 <p align="center">
   <a href="mailto:guy.davidix@gmail.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
