@@ -20,10 +20,10 @@
 ---
 
 ## 🚀 About Me
-- 🔹 Staff Software Engineer @ **Marvell Technology**  
-- 🔹 Specializing in **Firmware, Networking, and Linux Kernel internals**  
-- 🔹 Passionate about **eBPF, observability, and low-level system design**  
-- 🔹 Building **high-performance embedded solutions** in C  
+🔹 Staff Software Engineer @ **Marvell Technology**  
+🔹 Specializing in **Firmware, Networking, and Linux Kernel internals**  
+🔹 Passionate about **eBPF, observability, and low-level system design**  
+🔹 Building **high-performance embedded solutions** in C  
 
 ---
 
@@ -37,12 +37,3 @@
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
 </p>
 
----
-
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guy-davidi&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guy-davidi&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
