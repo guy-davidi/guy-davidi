@@ -2,6 +2,7 @@
   <img src="https://hits.sh/github.com/guy-davidi.svg?style=for-the-badge&label=Profile+Views&extraCount=0&color=779AEB&labelColor=4C4C4C" alt="Profile Views" />
 </p>
 
+<h3 align="center">Guy Davidi</h3>
 <h3 align="center">Firmware & Networking Engineer | eBPF Enthusiast | Linux Kernel Explorer</h3>
 
 ---
