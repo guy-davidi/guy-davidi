@@ -18,16 +18,13 @@
 </p>
 
 ---
-
-## 🚀 About Me
 🔹 Staff Software Engineer @ **Marvell Technology**  
 🔹 Specializing in **Firmware, Networking, and Linux Kernel internals**  
 🔹 Passionate about **eBPF, observability, and low-level system design**  
 🔹 Building **high-performance embedded solutions** in C  
-
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/C++-004482?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
