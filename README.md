@@ -18,10 +18,12 @@
 </p>
 
 ---
+
 🔹 Staff Software Engineer @ **Marvell Technology**  
 🔹 Specializing in **Firmware, Networking, and Linux Kernel internals**  
 🔹 Passionate about **eBPF, observability, and low-level system design**  
 🔹 Building **high-performance embedded solutions** in C  
+
 ---
 
 ## Tech Stack
