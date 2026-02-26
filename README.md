@@ -19,10 +19,11 @@
 
 ---
 
-🔹 Staff Software Engineer @ **Marvell Technology**  
+🔹 Software Engineer @ **NVIDIA**  
 🔹 Specializing in **Firmware, Networking, and Linux Kernel internals**  
 🔹 Passionate about **eBPF, observability, and low-level system design**  
 🔹 Building **high-performance embedded solutions** in C  
+
 
 ---
 
